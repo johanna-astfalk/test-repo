@@ -1,2 +1,2 @@
 # test-repo
-[Link] (https://code.visualstudio.com/docs/getstarted/introvideos)
+[Link](https://code.visualstudio.com/docs/getstarted/introvideos)
